@@ -48,7 +48,6 @@ nebula-python
 .settings/
 .classpath
 cmake-build*/
-.vscode/
 .cache/
 core.*
 workspace.*
@@ -69,3 +68,5 @@ venv/
 #ctags
 .tags
 /.vs
+config.bat
+node_modules
